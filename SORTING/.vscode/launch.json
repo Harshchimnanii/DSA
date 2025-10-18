@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "SORTING_2a074fa4"
+        }
+    ]
+}

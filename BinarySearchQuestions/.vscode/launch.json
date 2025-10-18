@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "cielingNo",
+            "request": "launch",
+            "mainClass": "cielingNo",
+            "projectName": "BinarySearchQuestions_1887fcf9"
+        },
+        {
+            "type": "java",
+            "name": "findNuminInfiniteArray",
+            "request": "launch",
+            "mainClass": "findNuminInfiniteArray",
+            "projectName": "BinarySearchQuestions_1887fcf9"
+        },
+        {
+            "type": "java",
+            "name": "findthesmallestgreaterthantarget",
+            "request": "launch",
+            "mainClass": "findthesmallestgreaterthantarget",
+            "projectName": "BinarySearchQuestions_1887fcf9"
+        },
+        {
+            "type": "java",
+            "name": "firstandlastpositioninarray",
+            "request": "launch",
+            "mainClass": "firstandlastpositioninarray",
+            "projectName": "BinarySearchQuestions_1887fcf9"
+        },
+        {
+            "type": "java",
+            "name": "floorNo",
+            "request": "launch",
+            "mainClass": "floorNo",
+            "projectName": "BinarySearchQuestions_1887fcf9"
+        }
+    ]
+}

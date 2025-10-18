@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Fibionacciseries",
+            "request": "launch",
+            "mainClass": "Fibionacciseries",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "Questions",
+            "request": "launch",
+            "mainClass": "Questions",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Shadowing",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "basiccalculator",
+            "request": "launch",
+            "mainClass": "basiccalculator",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "casecheck",
+            "request": "launch",
+            "mainClass": "casecheck",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "conditionals",
+            "request": "launch",
+            "mainClass": "conditionals",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "counttherepeatedones",
+            "request": "launch",
+            "mainClass": "counttherepeatedones",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "functionoverloading",
+            "request": "launch",
+            "mainClass": "functionoverloading",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "harsh",
+            "request": "launch",
+            "mainClass": "harsh",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "largestof3",
+            "request": "launch",
+            "mainClass": "largestof3",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "nestedswitch",
+            "request": "launch",
+            "mainClass": "nestedswitch",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "reversethedigit",
+            "request": "launch",
+            "mainClass": "reversethedigit",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "scoping",
+            "request": "launch",
+            "mainClass": "scoping",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "switchstatements",
+            "request": "launch",
+            "mainClass": "switchstatements",
+            "projectName": "Introduction_93f86dc5"
+        },
+        {
+            "type": "java",
+            "name": "varargs",
+            "request": "launch",
+            "mainClass": "varargs",
+            "projectName": "Introduction_93f86dc5"
+        }
+    ]
+}
